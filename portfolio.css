@@ -1,8 +1,14 @@
 .jumbotron {
   padding-top: 2rem;
-  background-color: #e2edff;
+  background-image: linear-gradient(to bottom, #09d8ff, #00c5fc, #00b1f7, #009cef, #2b87e2);
+}
+#projects {
+  background-image: linear-gradient(to top, #09d8ff, #00c5fc, #00b1f7, #009cef, #2b87e2);
 }
 
-#projects {
-  background-color: #e2edff;
+.navbar {
+  background-image: linear-gradient(to top, #09d8ff, #00c5fc, #00b1f7, #009cef, #2b87e2);
+}
+section#about .container {
+  padding-top: 160px;
 }
